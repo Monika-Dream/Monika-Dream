@@ -12,12 +12,13 @@
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" width="100%" />
 
-#### ✿ Stats
+#### ✿ Projects
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Monika-Dream&show_icons=true&theme=catppuccin_latte&border_color=FFB7C5&title_color=E8A0BF&icon_color=FFB7C5&ring_color=FFB7C5&hide_title=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monika-Dream&layout=compact&theme=catppuccin_latte&border_color=FFB7C5&title_color=E8A0BF&hide_title=true" />
+<a href="https://github.com/Monika-Dream/live-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Monika-Dream&repo=live-dashboard&theme=catppuccin_latte&border_color=FFB7C5&title_color=E8A0BF&icon_color=FFB7C5" /></a>
+&nbsp;
+<a href="https://github.com/Monika-Dream/luthier-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Monika-Dream&repo=luthier-ai&theme=catppuccin_latte&border_color=FFB7C5&title_color=E8A0BF&icon_color=FFB7C5" /></a>
 
 </div>
 
