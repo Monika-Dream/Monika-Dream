@@ -8,20 +8,9 @@
 
 <img src="https://media1.tenor.com/m/VjGqzJr9FagAAAAC/anime-girl.gif" width="200" />
 
-
 </div>
 
----
-
-#### ✿ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vue,ts,python,docker,linux,git&theme=light" />
-
-</div>
-
----
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" width="100%" />
 
 #### ✿ Projects
 
@@ -33,7 +22,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" width="100%" />
 
 #### ✿ Stats
 
@@ -41,15 +30,5 @@
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Monika-Dream&show_icons=true&theme=catppuccin_latte&border_color=FFB7C5&title_color=E8A0BF&icon_color=FFB7C5&ring_color=FFB7C5&hide_title=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monika-Dream&layout=compact&theme=catppuccin_latte&border_color=FFB7C5&title_color=E8A0BF&hide_title=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<sub>ᓚᘏᗢ 感谢来访~</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7C5,50:FFC8DD,100:E8A0BF&height=100&section=footer" width="100%"/>
 
 </div>
