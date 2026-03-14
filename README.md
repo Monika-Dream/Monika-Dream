@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7C5,50:FFC8DD,100:E8A0BF&height=180&section=header&text=Hi%20there%20𝐌𝐨𝐧𝐢𝐤𝐚%20♡&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=34" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&duration=3000&pause=1000&color=E8A0BF&center=true&vCenter=true&width=380&lines=%E5%86%99%E4%BB%A3%E7%A0%81+%E2%9C%A6+%E6%90%93%E9%A1%B9%E7%9B%AE+%E2%9C%A6+%E8%BF%BD%E7%95%AA;%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%A6%81%E5%8A%A0%E6%B2%B9%E9%B8%AD+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&duration=3000&pause=1000&color=E8A0BF&center=true&vCenter=true&width=380&lines=%E5%86%99%E4%BB%A3%E7%A0%81+%E2%9C%A6+%E6%90%93%E9%A1%B9%E7%9B%AE+%E2%9C%A6+%E8%BF%BD%E7%95%AA;Ciallo%EF%BD%9E+(%E2%88%A0%E3%83%BB%CF%89%3C)%E2%8C%92%E2%98%85" alt="Typing SVG" />
 
 <br/>
 
